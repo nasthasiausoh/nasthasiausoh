@@ -1,5 +1,9 @@
 ### ✨ Welcome to my GitHub profile! ✨
 
+- 🌱 I’m currently learning how to build robust Full Stack web applications.
+
+- 🔭 I’m currently working on developing a `client-side` web application using React. I'm using an `API` built by my fellow BNTA Cohort 9 members 😄.
+
 
 <!--
 **nasthasiausoh/nasthasiausoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
