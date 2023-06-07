@@ -4,7 +4,7 @@
 
 - 🥞 I am a trainee Full Stack Software Engineer.
 
-- 💻 I am a member of cohort 9 in the Bright Network Technology Academy (an on-going 13-week Full Stack Software Engineering Training Bootcamp).
+- 💻 I'm a member of cohort 9 in the Bright Network Technology Academy (an on-going 13-week Full Stack Software Engineering Training Bootcamp).
 
 - 🌱 I’m currently working on developing a full-stack web application using Java, Spring Boot, and PostgreSQL to build my API. As well as JavaScript, React, HTML, and CSS to construct the front-end/client-side of the application.
 
