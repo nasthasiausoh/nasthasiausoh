@@ -1,15 +1,10 @@
-### 👋🏽 Hello, my name is Nasthasia (also go by 'Natasha') and welcome to my GitHub page! ✨
+### 👋🏽 Hello, my name is Natasha and welcome to my GitHub page! ✨
 
-- 🧠 I recently graduated in Economics and Data Analytics from the University of Kent.
+- 🥞 I am an Economics & Data Analytics undergraduate and trained in Full Stack Software Engineering
 
-- 🥞 I am a trainee Full Stack Software Engineer.
+- 🌱 I’m currently working on developing a social media platform (similar to Twitter, Facebook and The Slap)! It is a full-stack web application using Java, Spring Boot, and PostgreSQL on the backend. As well as JavaScript, React, HTML, and CSS to construct the client-side of the application.
 
-- 💻 I'm a member of cohort 9 in the Bright Network Technology Academy (an on-going 13-week Full Stack Software Engineering Training Bootcamp).
-
-- 🌱 I’m currently working on developing a full-stack web application using Java, Spring Boot, and PostgreSQL to build my API. As well as JavaScript, React, HTML, and CSS to construct the front-end/client-side of the application.
-
-
-- 🌐 Programming languages, libaries and frameworks that I am familiar with include:
+- 🌐 Programming languages, libaries and frameworks that I have experience with include:
 
   - Java
   - Spring Boot
@@ -23,7 +18,7 @@
   - JUnit
   - Git
 
-- 📥 Feel free to reach me through:
+- 📥 If you would like to connect, collaborate or ask me any questions please feel free to reach me through:
   - Email: nasthasia@hotmail.co.uk
   - LinkedIn: (https://www.linkedin.com/in/nasthasia-u-0a9322140/)
 
